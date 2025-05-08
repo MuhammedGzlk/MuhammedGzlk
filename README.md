@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedgozlek&show_icons=true&locale=en" alt="muhammedgozlek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedgozlek&" alt="muhammedgozlek" /></p>
+
+![snake gif](https://github.com/MuhammedGzlk/MuhammedGzlk/blob/output/github-snake-dark.svg)
