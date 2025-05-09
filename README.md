@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Gözlek</h1>
 <h3 align="center">A passionate data scıentıst from Türkıye</h3>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammedgozlek&show_icons=true&locale=en" alt="muhammedgozlek" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedgozlek&show_icons=true&locale=en&layout=compact" alt="muhammedgozlek" /></p>
+
 - 🔭 I’m currently working on **Snake Game**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muhammedgozlek23@gmail.com**
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedgozlek&show_icons=true&locale=en&layout=compact" alt="muhammedgozlek" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/muhammedgzlk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammedgzlk" height="30" width="40" /></a>
