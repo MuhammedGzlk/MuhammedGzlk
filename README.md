@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Gozlek</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Gözlek</h1>
 <h3 align="center">A passionate data scıentıst from Türkıye</h3>
 
 - 🔭 I’m currently working on **Snake Game**
@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedgozlek&" alt="muhammedgozlek" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedgozlek&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedgozlek" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedgozlek&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedgozlek" /> </p>
 
 ![snake gif](https://github.com/muhammedgozlek/muhammedgozlek/blob/output/github-snake-dark.svg)
