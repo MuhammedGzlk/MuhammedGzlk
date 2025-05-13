@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Museum Simulation**
 
-- 🌱 I’m currently learning **OpenGL and C++**
+- 🌱 I’m currently learning **OpenGL and C++ , Blender**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
