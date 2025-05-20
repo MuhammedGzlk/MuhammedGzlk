@@ -2,13 +2,13 @@
 <h3 align="center">A passionate data scıentıst from Türkıye</h3>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammedgozlek&show_icons=true&locale=en" alt="muhammedgozlek" /></p>
 
-- 🔭 I’m currently working on **Museum Simulation**
+- 🔭 I’m currently working on **Museum Simulation, Alkar Fighting UAV Team**
 
-- 🌱 I’m currently learning **OpenGL and C++ , Blender**
+- 🌱 I’m currently learning **OpenGL and C++ , Blender ,opencv**
 
-- 👯 I’m looking to collaborate on **Machine learning**
+- 👯 I’m looking to collaborate on **Data Scıence**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Data science, Image Procesing**
 
 - 📫 How to reach me **muhammedgozlek23@gmail.com**
 
