@@ -35,4 +35,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedgozlek&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedgozlek" /> </p>
 
-![snake gif](https://github.com/muhammedgozlek/muhammedgozlek/blob/output/github-snake-dark.svg)
+
