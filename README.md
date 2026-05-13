@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Gözlek</h1>
 <h3 align="center">A passionate data scıentıst from Türkıye</h3>
 
-- 🔭 I’m currently working on **Museum Simulation, Alkar Fighting UAV Team**
+- 🔭 I’m currently working on **ERP Project, Alkar Fighting UAV Team**
 
-- 🌱 I’m currently learning **OpenGL and C++ , Blender ,opencv**
+- 🌱 I’m currently learning **PostgreSQL ,SQL AWS**
 
 - 👯 I’m looking to collaborate on **Data Scıence**
 
