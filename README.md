@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Gözlek</h1>
 <h3 align="center">A passionate data scıentıst from Türkıye</h3>
 
--  I’m currently working on ** ERP Project, Alkar Fighting UAV Team Project**
+-  I’m currently working on ** CRM-Mobile Project, Alkar Fighting UAV Team Project**
 
--  I’m currently learning **LLM **
+-  I’m currently learning **Flutter-LLM **
 
 -  I’m looking to collaborate on **Data Scıence**
 
